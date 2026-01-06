@@ -125,4 +125,4 @@ outputs:
 runs:
   using: docker
   # image: Dockerfile
-  image: docker://ghcr.io/pranavmishra90/semvar-docker:main
+  image: docker://ghcr.io/pranavmishra90/psr-docker:main
